@@ -1,0 +1,10 @@
+[ignore]
+
+[include]
+components/
+lib/
+pages/
+
+[libs]
+
+[options]
